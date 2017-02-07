@@ -13,6 +13,6 @@
 
 <a href="https://ryazyk.github.io/Template2 _rothy/">Template 2 Rothy's</a>
 
-<a href="https://ryazyk.github.io/Template_email/">Template email</a>
+<a href="https://ryazyk.github.io/TemplateEmail/">Template email</a>
 
 
