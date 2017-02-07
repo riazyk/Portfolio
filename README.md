@@ -1,6 +1,8 @@
 # PF
 <a href="https://ryazyk.github.io/C&B_Pixel_perfect/"> C & B Pixel perfect</a>
 
+<a href="https://ryazyk.github.io/Cozzy_home/">Cozzy home landing</a>
+
 <a href="https://ryazyk.github.io/Template1_rothy/">Template 1 Rothy's</a>
 
 <a href="https://ryazyk.github.io/mole/">Mole game JS</a>
