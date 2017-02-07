@@ -16,5 +16,3 @@
 <a href="https://ryazyk.github.io/Template_email/">Template email</a>
 
 
-
-
