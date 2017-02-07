@@ -15,4 +15,5 @@
 
 <a href="https://ryazyk.github.io/TemplateEmail/">Template email</a>
 
+<a href="https://ryazyk.github.io/Slider/">Responsive menu + slider</a>
 
