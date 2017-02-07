@@ -1,4 +1,6 @@
 # PF
+<a href="https://ryazyk.github.io/C&B_Pixel_perfect/"> C & B Pixel perfect</a>
+
 <a href="https://ryazyk.github.io/Analog_clock/">Analog clock JS</a>
 
 <a href="https://ryazyk.github.io/Holiday_dreams/">Holiday dreams</a>
