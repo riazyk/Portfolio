@@ -11,7 +11,7 @@
 
 <a href="https://ryazyk.github.io/drum/">Virtual-drum-JS</a>
 
-<a href="https://ryazyk.github.io/Template2_rothy/">Template 2 Rothy's</a>
+<a href="https://ryazyk.github.io/Template2 _rothy/">Template 2 Rothy's</a>
 
 <a href="https://ryazyk.github.io/Template_email/">Template email</a>
 
