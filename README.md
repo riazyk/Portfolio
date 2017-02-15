@@ -21,3 +21,6 @@
 <a href="https://ryazyk.github.io/Slider/">Blagoyart</a>
 
 <a href="https://ryazyk.github.io/Template/">Template</a>
+
+<a href="https://ryazyk.github.io/Tekrum/">Simple side slider</a>
+
