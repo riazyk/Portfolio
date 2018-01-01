@@ -26,3 +26,6 @@
 
 <a href="https://ryazyk.github.io/Tekrum/">Simple side slider</a>
 
+<a href="https://ryazyk.github.io/FedyaSnake/">Snake Game JS</a>
+
+
